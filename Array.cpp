@@ -7,7 +7,6 @@ string arrayfunction(string array[])
 {
 	return "null";
 }
-
 void main()
 {
 	try
